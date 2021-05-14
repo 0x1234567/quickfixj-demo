@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.example</groupId>
-  <artifactId>quickfix-demo</artifactId>
+  <artifactId>quickfixj-demo</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>quickfix-demo</name>
+  <name>quickfixj-demo</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
