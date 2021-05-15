@@ -47,7 +47,7 @@ public class FixInitiator {
         // 启动一个Session，构造器中第一参数为FIX版本号，无需变动
         // 第二个参数为每个人分配到的账号，请自己修改。另：同一时间段只允许一个相同账号发起连接，请同一个小组的同学进行协调
         // 第三个参数为服务端ID，统一不需要修改
-        SessionID sessionID = new SessionID("FIX.4.4", "QUICKFIX_INITIATOR2", "QUICKFIX_ACCEPTOR");
+        SessionID sessionID = new SessionID("FIX.4.4", "Wind_K0BGG51c", "QUICKFIX_ACCEPTOR");
 
         // 开始发消息
         try {
